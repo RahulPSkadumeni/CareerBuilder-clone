@@ -1,0 +1,426 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+element.style {
+  padding-top: 20px;
+}
+
+.body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  background-color: #00b2a4;
+}
+.header {
+  font-size: large;
+  font-family: Barlow, Arial, sans-serif;
+
+  height: 50px;
+  display: flex;
+  background: rgb(255, 255, 255);
+  padding-left: 30px;
+  align-items: baseline;
+}
+
+.header-left {
+  width: 900px;
+  display: flex;
+}
+
+.logo {
+  /* padding-left: 30px;    */
+  width: 200px;
+  height: 60px;
+  /* padding-top: 20px; */
+}
+.logo-img {
+  padding-top: 0;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.jobs {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.links {
+  margin-left: 20px;
+}
+.header-right {
+  padding-left: 200px;
+}
+a {
+  text-decoration: none;
+}
+.grid-container {
+  padding-top: 105px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 350px;
+  display: grid;
+  grid-template-columns: auto auto;
+  background-image: url("./cb_brand_banner.jpg");
+  border: 2px solid blue;
+  gap: 10px;
+}
+.grid-item1 {
+  /* height: 300px;
+    width: 850px; */
+  border: 2px solid red;
+}
+.grid-item2 {
+  /* width: 400px;
+    height:300px; */
+  border: 2px solid red;
+}
+.salaries {
+  width: 10%;
+}
+
+.body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  margin: 0;
+}
+.gridcontainer {
+  position: relative;
+  background-image: url(./cb_brand_banner.jpg);
+  background-size: contain;
+  width: 100vw;
+  height: 460px;
+
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.grid1 {
+  position: absolute;
+  display: grid;
+
+  top: 20%;
+  left: 10%;
+  right: 10%;
+  height: 300px;
+  background: rgb(255, 255, 255);
+}
+.grid2 {
+  position: absolute;
+  top: 20%;
+  right: 10%;
+  height: 300px;
+  width: 350px;
+
+  background: #80838e;
+}
+.grid1in1 {
+  z-index: 1;
+  height: 60px;
+  width: 450px;
+  position: relative;
+  left: 3%;
+  top: 40%;
+  background-color: rgb(255, 255, 255);
+}
+
+.grid2in1 {
+  z-index: 1;
+  height: 60px;
+  width: 500px;
+  position: relative;
+  left: 3%;
+  top: 10%;
+  /* bottom: 20%; */
+  background-color: rgb(255, 255, 255);
+}
+.grid3in1 {
+  z-index: 1;
+  height: 15px;
+  width: 500px;
+  position: relative;
+  left: 3%;
+  top: 10%;
+  background-color: rgb(255, 255, 255);
+}
+
+.grid1in2 {
+  z-index: 1;
+  height: 60px;
+  width: 250px;
+  position: relative;
+  left: 5%;
+  top: 65px;
+
+  color: #080816;
+}
+
+.grid2in2 {
+  z-index: 1;
+  height: 60px;
+  width: 250px;
+  position: relative;
+  left: 5%;
+  top: 100px;
+
+  background-color: #80838e;
+}
+.gridcontainer2 {
+  display: grid;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  width: 100vw;
+  height: 300px;
+
+  display: grid;
+  border: 2px solid rgb(255, 255, 255);
+}
+.BuildResume {
+  height: 30px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
+.button {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.button1 {
+  border-radius: 5%;
+  width: 230px;
+  height: 100px;
+  color: #012b5b;
+  background-color: #f1ebeb;
+}
+
+.gridcontainer3 {
+  font-size: small;
+  font-style: arial;
+  height: 300px;
+  width: 100%;
+}
+.companies {
+  height: 90px;
+  width: 100%;
+  background: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  align-content: center;
+}
+.image {
+}
+.gridcontainer4 {
+}
+.links {
+  width: 10%;
+  align-items: center;
+}
+.table {
+  padding-left: 200px;
+  padding-top: 100px;
+  font-size: xx-small;
+  align-content: center;
+  color: black;
+}
+
+td {
+  padding-left: 90px;
+  color: #012b5b;
+}
+.image2 {
+  padding-top: 100px;
+  padding-left: 150px;
+  gap: 50px;
+
+  background: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-content: center;
+}
+.paragraph {
+  margin-left: 150px;
+  margin-top: 20px;
+  gap: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.gridcontainer5 {
+  height: 700px;
+  padding-top: 40px;
+  width: 100%;
+  padding-bottom: 10px;
+
+  background: #00b2a3;
+}
+.image2 {
+  background: #00b2a3;
+}
+.gridcontainer6 {
+  padding-top: 50px;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  height: 670px;
+  background: rgb(255, 255, 255);
+
+  display: grid;
+}
+.mobile {
+  padding-left: 90px;
+
+  border: 2px #012b5b;
+  height: 670px;
+  display: grid;
+}
+.mobileright {
+  grid-template-rows: 1fr 1fr 1fr;
+
+  height: 460px;
+  display: grid;
+}
+.mobile1 {
+  height: 80px;
+  width: 500px;
+  grid-template-columns: 1fr 4fr;
+  display: grid;
+  padding-top: 10px;
+}
+.mobile2 {
+  height: 80px;
+  width: 500px;
+  border: 2px solid rgb(150, 80, 80);
+  grid-template-columns: 1fr 4fr;
+  display: grid;
+}
+
+.mobile2 {
+  height: 80px;
+  width: 800px;
+  grid-template-columns: 1fr 4fr;
+  display: grid;
+  padding-top: 10px;
+  margin-top: 60px;
+  margin-right: 200px;
+}
+
+.mobileimage1 {
+  width: 60px;
+
+  height: 60px;
+  border-radius: 80px;
+  background-color: #e2c20c;
+}
+.mobileitext1 {
+  background: #ffffff;
+  height: 60px;
+}
+.gridcontainer7 {
+}
+.text2 {
+  color: #012b5b;
+}
+.gridcontainer8 {
+  height: 250px;
+  background-color: #080816;
+  grid-template-columns: 1.5fr 1fr 1fr;
+  border: #012b5b;
+  display: grid;
+}
+.photo2 {
+  padding-top: 10px;
+}
+.textleft {
+  color: #f1ebeb;
+  padding-top: 30px;
+  padding-left: 150px;
+}
+.postajob {
+  width: 100px;
+  height: 30px;
+}
+
+.postajob:hover {
+  background-color: #291313;
+  color: #ffffff;
+}
+.slides {
+  grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  height: 300px;
+  margin: 80px;
+  column-gap: 30px;
+  padding-right: 50px;
+}
+.building {
+  margin-top: 40px;
+  background-image: url(./building.jpg);
+}
+
+.people {
+  margin-top: 40px;
+  background-image: url(./people.jpg);
+}
+
+.smile {
+  margin-top: 40px;
+  background-image: url(./smile.jpg);
+}
+.building:hover {
+  border: 2px solid #2587f8;
+}
+.people:hover {
+  border: 2px solid #2587f8;
+}
+.smile:hover {
+  border: 2px solid #2587f8;
+}
+.SearchJob {
+  background-color: #2f4ba0;
+  height: 80px;
+  width: 500px;
+}
+.grid3in1 {
+  color: #012b5b;
+}
+.CONTAINER2text2 {
+  padding-left: 450px;
+}
+.CONTAINER2text1 {
+  margin-left: 500px;
+}
+.li {
+  display: list-item;
+}
+.container9 {
+  background-color: #2f4ba0;
+  padding-top: 50px;
+  padding-left: 150px;
+  height: 250px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  color: #f1ebeb;
+}
+.list4 {
+  list-style: none;
+}
+
+.list1 {
+  list-style: none;
+}
+
+.list2 {
+  list-style: none;
+}
+
+.list3 {
+  list-style: none;
+}
+
+.list5 {
+  list-style: none;
+}

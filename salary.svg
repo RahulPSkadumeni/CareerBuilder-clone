@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 145 145" style="enable-background:new 0 0 145 145;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#E8C80D;}
+  .st1{fill:none;stroke:#0E0E24;stroke-width:3.98;stroke-linecap:round;stroke-miterlimit:10;}
+  .st2{fill:none;stroke:#0E0E24;stroke-width:3.98;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2_00000075127505221711597680000004394262622723211173_">
+  <g id="budgeting_dollar">
+    <path class="st0" d="M72.5,2C33.6,2,2,33.6,2,72.5S33.6,143,72.5,143S143,111.4,143,72.5C143,33.6,111.4,2,72.5,2
+      C72.5,2,72.5,2,72.5,2z"/>
+    <rect x="48.4" y="47" class="st1" width="34.2" height="8.8"/>
+    <rect x="48.4" y="64.9" class="st1" width="34.2" height="34.2"/>
+    <line class="st1" x1="49.2" y1="73.4" x2="82.6" y2="73.4"/>
+    <line class="st1" x1="49.2" y1="82" x2="82.6" y2="82"/>
+    <line class="st1" x1="49.2" y1="90.5" x2="82.6" y2="90.5"/>
+    <line class="st1" x1="74.5" y1="65.3" x2="74.5" y2="98.7"/>
+    <line class="st1" x1="65.9" y1="65.3" x2="65.9" y2="98.7"/>
+    <line class="st1" x1="57.4" y1="73.4" x2="57.4" y2="98.7"/>
+    <path class="st1" d="M83.8,64.3c0-4.9,2-9.5,5.5-12.9V39.9H41.8V105h47.4V77.2C85.8,73.8,83.8,69.2,83.8,64.3z"/>
+    <path class="st1" d="M107.5,47.4c-9.3-3.2-19.5,1.9-22.6,11.2S86.7,78,96.1,81.2s19.5-1.9,22.6-11.2c0.6-1.8,0.9-3.7,0.9-5.7
+      C119.6,56.6,114.7,49.8,107.5,47.4z"/>
+    <path class="st2" d="M96,69.1c0.5,3.8,3.2,4.8,5.9,4.8c2.7,0.1,4.9-2,5-4.7c0,0,0,0,0,0c0-2.6-1.6-4.2-5-4.8S97,62.2,97,59.5
+      c0.1-2.7,2.3-4.8,4.9-4.8c2.7,0,5.1,1.2,5.5,4.4"/>
+    <line class="st2" x1="101.7" y1="51.3" x2="101.7" y2="54.8"/>
+    <line class="st2" x1="101.7" y1="73.8" x2="101.7" y2="77.3"/>
+  </g>
+</g>
+</svg>
